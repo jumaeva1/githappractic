@@ -9,6 +9,7 @@ public class Main {
         int b = random.nextInt(1,100);
         плюс(a,b);
 
+
     }
 
     static  int  вычитание (int a,int b ) {
