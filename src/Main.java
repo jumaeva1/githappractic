@@ -16,6 +16,7 @@ public class Main {
         System.out.println(sum);
          return sum;
 
+
         }
 
      public static int плюс (int a, int b){
