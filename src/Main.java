@@ -17,10 +17,7 @@ public class Main {
     static int bolu(int a, int b) {
             System.out.println("Чон сан " + Math.max(a,b));
             System.out.println("Кичине сан " + Math.min(b, a));
-        Random random = new Random();
-        int a = random.nextInt(1,100);
-        int b = random.nextInt(1,100);
-        плюс(a,b);
+       return a;
 
     }
 
@@ -37,11 +34,6 @@ public class Main {
          System.out.println(sum);
          return sum;
 
-
-
-
-
-        return a;
     }
 }
 
