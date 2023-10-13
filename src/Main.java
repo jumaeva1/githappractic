@@ -36,6 +36,12 @@ public class Main {
          return sum;
 
     }
+    public static int minus (int a, int b){
+        int sum = a + b;
+        System.out.println(sum);
+        return sum;
+
+    }
 }
 
 
